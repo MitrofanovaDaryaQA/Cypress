@@ -1,5 +1,5 @@
 # Cypress
-Assignments I completed on the courses:
+**Assignments I completed on the courses:** 
 - [Udemy] Sergei Semenov - Cypress on a real project for beginners QA Automation (2020)
 
   -Lecture_1 -[Searching for elements Get];
@@ -18,8 +18,10 @@ Assignments I completed on the courses:
   
   -Lecture_8 -[API verification of responses];
   
+  
+  
 
-Задания, выполненные мною на курсах:
+**Задания, выполненные мною на курсах:**
 - [Udemy] Sergei Semenov - Cypress на реальном проекте для начинающих QA Automation (2020)
 
   -Лекция_1 -[Поиск элементов Get];
