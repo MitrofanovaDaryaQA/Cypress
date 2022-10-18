@@ -1,6 +1,6 @@
 # Cypress
-**Assignments I completed on the courses:** 
-- ***[Udemy] Sergei Semenov - Cypress on a real project for beginners QA Automation (2020)***
+## **Assignments I completed on the courses:** 
+### - ***[Udemy] Sergei Semenov - Cypress on a real project for beginners QA Automation (2020)***
 
   -Lecture_1 -[Searching for elements Get];
   
@@ -21,13 +21,14 @@
   
   
   
-- ***[Telegram] Anton Breslavsky - Cypress tutorial***  
+### - ***[Telegram] Anton Breslavsky - Cypress tutorial***  
+
   -tutorialTest_1 -[First flight on Cypress | Finding the best selectors | Testing the mother project on Cypress]
   
   
 
-**Задания, выполненные мною на курсах:**
-- ***[Udemy] Sergei Semenov - Cypress на реальном проекте для начинающих QA Automation (2020)***
+## **Задания, выполненные мною на курсах:**
+### - ***[Udemy] Sergei Semenov - Cypress на реальном проекте для начинающих QA Automation (2020)***
 
   -Лекция_1 -[Поиск элементов Get];
 
@@ -45,5 +46,6 @@
   
   -Лекция_8 -[Проверка ответов API];
   
-- ***[Telegram] Anton Breslavsky - Cypress туториал***
+### - ***[Telegram] Anton Breslavsky - Cypress туториал***
+
   -tutorialTest_1 -[Первый полет на Cypress | Поиск лучших селекторов | Тестирование мама проекта на Cypress]
