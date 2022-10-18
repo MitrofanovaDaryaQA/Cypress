@@ -23,7 +23,7 @@
   
 ### - ***[Telegram] Anton Breslavsky - Cypress tutorial***  
 
-  -tutorialTest_1 -[First flight on Cypress | Finding the best selectors | Testing the mother project on Cypress]
+  -tutorialTest_1 -[First flight on Cypress | Finding the best selectors]
   
   
 
@@ -48,4 +48,4 @@
   
 ### - ***[Telegram] Anton Breslavsky - Cypress туториал***
 
-  -tutorialTest_1 -[Первый полет на Cypress | Поиск лучших селекторов | Тестирование мама проекта на Cypress]
+  -tutorialTest_1 -[Первый полет на Cypress | Поиск лучших селекторов]
