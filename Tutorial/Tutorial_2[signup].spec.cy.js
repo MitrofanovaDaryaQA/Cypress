@@ -37,7 +37,7 @@ describe('Sign up', () => {
         cy.get('.auth-page form').should('be.visible');
 
         cy.get('.auth-page form input[ng-model$=email]')
-            .type('test_anton@gmail.com');
+            .type('test_dasha@gmail.com');
         cy.get('.auth-page form input[ng-model$=password]')
             .type('xyzXYZ123_');
         cy.get('.auth-page form button[type=submit]').click();
@@ -48,11 +48,11 @@ describe('Sign up', () => {
 
     it('should do logout user', () => {
 
-        const username = 'test_anton';
+        const username = 'test_dasha';
 
         cy.visit('https://demo.realworld.io/');
         // see file cypress/support/commands.js
-        cy.login(username, 'test_anton@gmail.com', 'xyzXYZ123_');
+        cy.login(username, 'test_dasha@gmail.com', 'xyzXYZ123_');
 
         cy.get('.navbar a[href$="/settings"]').click();
         cy.get('.settings-page h1').should('have.text', 'Your Settings');
