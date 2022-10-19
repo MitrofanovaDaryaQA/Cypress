@@ -1,4 +1,4 @@
-///reference types="Cypress"/ 
+///reference types="Cypress"/  
 /* describe('educon', () => {
   it("By ID",()=>{
 cy.visit("https://educon2.tyuiu.ru/login/index.php");
