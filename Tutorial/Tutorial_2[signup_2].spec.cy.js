@@ -25,7 +25,7 @@ describe('Sign up', () => {
 
         // type email form field
         cy.get('.auth-page form input[ng-model$=email]')
-            .type('test_anton@gmail.com');
+            .type('test_dasha@gmail.com');
 
         // type password form field
         cy.get('.auth-page form input[ng-model$=password]')
