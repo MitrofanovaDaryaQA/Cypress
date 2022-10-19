@@ -28,7 +28,7 @@ describe('Commenting', () => {
 
         cy.visit('https://demo.realworld.io/');
         // see cypress/support/commands.js
-        cy.login('test_anton', 'test_anton@gmail.com', 'xyzXYZ123_');
+        cy.login('test_dasha', 'test_dasha@gmail.com', 'xyzXYZ123_');
         cy.url().should('match', /\/\#\/$/);
 
         openFirstArticle();
@@ -42,7 +42,7 @@ describe('Commenting', () => {
 
         cy.visit('https://demo.realworld.io/');
         // see cypress/support/commands.js
-        cy.login('test_anton', 'test_anton@gmail.com', 'xyzXYZ123_');
+        cy.login('test_dasha', 'test_dasha@gmail.com', 'xyzXYZ123_');
         cy.url().should('match', /\/\#\/$/);
 
         openFirstArticle();
