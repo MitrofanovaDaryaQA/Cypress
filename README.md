@@ -23,10 +23,11 @@
   
 ### - ***[Telegram] Anton Breslavsky - Cypress tutorial***  
 
-  -Tutorial_1 -[First flight on Cypress | Finding the best selectors]
+  -Tutorial_1 -[First flight on Cypress | Finding the best selectors];
   
-  -Tutorial_2 -[Testing mom project on Cypress]
+  -Tutorial_2 -[Testing mom project on Cypress];
   
+  -Tutorial_3 -[My first refactor];
   
 
 ## **Задания, выполненные мною на курсах:**
@@ -50,6 +51,8 @@
   
 ### - ***[Telegram] Anton Breslavsky - Cypress туториал***
 
-  -Tutorial_1 -[Первый полет на Cypress | Поиск лучших селекторов]
+  -Tutorial_1 -[Первый полет на Cypress | Поиск лучших селекторов];
   
-  -Tutorial_2 -[Тестируем мама проект на Cypress]
+  -Tutorial_2 -[Тестируем мама проект на Cypress];
+  
+  -Tutorial_3 -[Мой первый рефактор в Cypress];
