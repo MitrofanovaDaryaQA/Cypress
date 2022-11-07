@@ -29,6 +29,8 @@
   
   -Tutorial_3 -[My first refactor];
   
+  -Tutorial_4 -[Fake data with Faker];
+  
 
 ## **Задания, выполненные мною на курсах:**
 ### - ***[Udemy] Sergei Semenov - Cypress на реальном проекте для начинающих QA Automation (2020)***
@@ -56,3 +58,5 @@
   -Tutorial_2 -[Тестируем мама проект на Cypress];
   
   -Tutorial_3 -[Мой первый рефактор в Cypress];
+  
+  -Tutorial_4 -[Фейковые данные с использованием Faker];
